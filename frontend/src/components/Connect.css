@@ -1,0 +1,43 @@
+
+
+.connect-container {
+  padding: 80px 20px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.connect-content {
+  max-width: 900px;
+  width: 100%;
+}
+
+.connect-content h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #66fcf1; 
+}
+
+.connect-content p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 40px;
+  color: #c5c6c7;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.social-icons a {
+  color: white;
+  font-size: 2.5rem; 
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.social-icons a:hover {
+  color: #66fcf1;
+  transform: scale(1.2);
+}
