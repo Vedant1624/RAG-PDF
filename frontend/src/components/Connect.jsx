@@ -21,7 +21,7 @@ function Connect() {
           <a href="https://www.linkedin.com/in/vedant-chavan-6881732b9/" >
             <FaLinkedin />
           </a>
-          <a href="https://twitter.com/VedantC78502629?t=ff8BC-lzqv54hNkJFxhppg&s=09">
+          <a href="https://twitter.com/">
             <FaTwitter />
           </a>
         </div>
