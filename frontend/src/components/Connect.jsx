@@ -1,7 +1,7 @@
-// src/components/Connect/Connect.jsx
+
 import React from 'react';
 import './Connect.css';
-// Using the react-icons library we installed earlier
+
 import { FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
 
 function Connect() {
