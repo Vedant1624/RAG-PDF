@@ -18,7 +18,7 @@ function Connect() {
           <a href="https://github.com/Vedant1624">
             <FaGithub />
           </a>
-          <a href="https://www.linkedin.com/in/vedant-chavan-6881732b9/" >
+          <a href="https://www.linkedin.com/" >
             <FaLinkedin />
           </a>
           <a href="https://twitter.com/">
